@@ -4,7 +4,7 @@ import pandas as pd
 
 # xlrd
 
-key = 'AtTTxK0UI92LBgwZ7B0tRrM0jZcrx5h703RUVAvFdT_g9uxrcXvsXteOsDJoCCw1 '
+key = ''
 
 # от этого числа зависит сколько запросов будет сделано за один скрипт,не забудь прочекать лимиты для текущего ключа!!!!!!!!!
 number_of_addresses_for_requests = 4

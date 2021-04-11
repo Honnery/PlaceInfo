@@ -3,7 +3,7 @@ import json
 import pandas as pd
 # xlrd
 
-key = 'AIzaSyABvBEFYZPUNzdLENdZg8Jwb_O61XCc_-I'
+key = ''
 def make_list_of_plases():
     with open('list_of_hospitals.json') as f:
         list_of_h = json.load(f)
